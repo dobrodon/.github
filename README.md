@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [[repository-url]](https://github.com/dobrodon/front-dobrodon)
+git clone https://github.com/dobrodon/front-dobrodon
 cd front-dobrodon
 ```
 2. Установите зависимости:
