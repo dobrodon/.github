@@ -17,9 +17,9 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [repository-url]
+git clone [[repository-url]](https://github.com/dobrodon/front-dobrodon)
 cd front-dobrodon
-
+```
 2. Установите зависимости:
 npm install
 # или
@@ -32,7 +32,7 @@ yarn install
 npm run dev
 # или
 yarn dev
-```
+
 
 Приложение будет доступно по адресу [http://localhost:3000](http://localhost:3000).
 
