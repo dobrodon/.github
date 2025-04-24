@@ -42,7 +42,13 @@ npm run dev
 
 ## ☢️ Сервер
 
-Запустите бекенд:
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/dobrodon/back-dobrodon.git
+cd back-dobrodon
+```
+
+2. Запустите бекенд:
 ```bash
 uvicorn main:app --reload --port 8023 --host <айпи сервера>
 ```
