@@ -59,11 +59,8 @@ http://26.233.92.17:8020
 - Утилиты: Lodash
 
 ## 📚 Документация
+- [Документация презентация](https://github.com/dobrodon/.github/blob/1c0618cd1d67bdd5356d1d71d2889512d7282a0e/DobroDon-presentation.pdf)
 - [Документация фронтенда](https://github.com/dobrodon/.github/blob/0e8d21d9fb6d1da7981013a1dc8b5e5956d07e5a/DobroDon-documentation-frontend.docx)
-- 
-- [Документация Next.js](https://nextjs.org/docs)
-- [Документация React](https://react.dev)
-- [Документация TailwindCSS](https://tailwindcss.com/docs)
 
 ## 🤝 Участие в разработке
 
