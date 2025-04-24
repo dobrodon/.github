@@ -42,7 +42,7 @@ npm run dev
 uvicorn main:app --reload --port 8023 --host <айпи сервера>
 ```
 
-Сайт хостится на домене (https://junior.enotgpt.ru)
+Сайт хостится на домене https://junior.enotgpt.ru
 
 ## 🔧 Конфигурация
 
